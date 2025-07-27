@@ -21,7 +21,6 @@ Hi, I'm Kenan!
 ### 🛠 &nbsp;Tech Skills
 
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
