@@ -1,18 +1,25 @@
 Hi, I'm Kenan!
 
-### 💻 &nbsp;About me
-- 👨‍💻 &nbsp; Mobile developer
-- 📚 &nbsp; Math & Computer Science Student
-
-### 📊 &nbsp;Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenansultanic&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kenansultanic" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%" style="padding-right: 20px;">
+      <h3>💻&nbsp;About me</h3>
+      <ul>
+        <li>👨‍💻&nbsp; Mobile developer</li>
+        <li>📚&nbsp; Math &amp; CS Student</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%" style="padding-left: 20px;">
+      <h3>📊&nbsp;Most Used Languages</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenansultanic&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kenansultanic" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### 🛠 &nbsp;Tech Skills
 
-- 🌐 &nbsp;
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
